@@ -1,0 +1,28 @@
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EllaEllaEll/my-site.git"
+  },
+  "author": "Valovoy, Valova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EllaEllaEll/my-site/issues"
+  },
+  "homepage": "https://github.com/EllaEllaEll/my-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^4.0.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
